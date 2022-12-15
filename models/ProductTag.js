@@ -6,7 +6,7 @@ class ProductTag extends Model {}
 
 ProductTag.init(
   {
-    int: {
+    id: {
       // int, not null, primary, auto increment
       type: DataTypes.INTEGER,
       allowNull: false,
