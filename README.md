@@ -7,6 +7,7 @@
 ![CSS][css-url]
 ![SQL][mysql-url]
 ![Node][node-url]
+![Express][express-url]
 ![Sequelize][sqlize-url]
 
 
@@ -21,7 +22,8 @@ git clone git@github.com:t-starkw/retail-therapy.git
 
 ## Usage
 
-Test the CRUD operations using a software like Insomnia.
+Test the CRUD operations using a software like Insomnia. <br>
+View my insomnia demo [here](https://drive.google.com/file/d/1uYjD71n0GF71lQZhrTJZJQCwpcjqG7Dl/view)
 
 
 ## Meta
