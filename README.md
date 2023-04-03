@@ -7,6 +7,7 @@
 ![CSS][css-url]
 ![SQL][mysql-url]
 ![Node][node-url]
+![Sequelize][sqlize-url]
 
 
 
